@@ -1,4 +1,4 @@
-# Scambuster - Crusader Strike EU
+# Scambuster - Lone Wolf EU
 
 We utilize the Scambuster addon framework to compile and distribute our list of identified Scammers and Ninja Looters within the [Lone Wolf EU](https://discord.gg/BhcDCGeDSD) community. This addon is specifically designed to work seamlessly with [Scambuster](https://github.com/hypernormalisation/Scambuster) addon framework. If you wish to receive in-game alerts upon joining a PUG, please follow the steps outlined below.
 
