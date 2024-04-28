@@ -2,7 +2,7 @@
 ## Title: Scambuster-LoneWolfEU
 ## Notes: Extension for Scambuster packaging Lone Wolf EU realm data
 ## Author: Cei, Jittery
-## Version: 1.0.2
+## Version: 1.0.3
 ## DefaultState: enabled
 ## Dependencies: Scambuster
 
