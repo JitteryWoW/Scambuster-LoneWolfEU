@@ -2,7 +2,7 @@ local _, t = ...
 
 -- Lone Wolf Discord Blocklist Table
 
--- unique characters: 2
+-- unique characters: 16
 
 t.version = "@project-version@"
 
@@ -142,5 +142,6 @@ t.case_table = {
     description = "Ninja Looting - Raid",
     url = "https://discord.com/channels/1179118983518109836/1233003919941304420",
 },
+    
 }
 
